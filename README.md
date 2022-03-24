@@ -1,2 +1,2 @@
-# BTAU-mine-pool-pass-licence
-BTAU mine pool pass licence
+mine-pool-pass-licence
+mine pool pass licence
